@@ -1,0 +1,5 @@
+Clase del 5 de Febero del 2025, en esta clase se aprendio poder pasar lo que tenga en la terminal, (en la computadora que estoy utilizando), en notepad; poder pasarlo a la wd. Esteficicamente en GitHub para que, porteriormente, la mestra pueda revisar mis trabajos.
+
+Tambien se nos dieron a conocer los comandos y el como funcionan, como fueron los: git add, git commit, git push, git pull.
+
+Pri,eramente, con la terminal abierta, debo de entrar a mi carpeta Dulcinea_PB, de ahi, pondre el cd y la carpeta de ejercicios y tareas, una vez que este dentro de esa carpeta, creare otra, con la fecha del día en que este, de nuevo coloco el cd para introducirme ahi, y ahora si, puedo comenzar a trabajar. Comienzo colocando notepad (con el nombre que se requiera en ese momento), se me abre la pagina y comienzo con la escritura. Una vez terminado, le pongo en guardar, me regreso a la terminal, me devuelvo a la carpeta de ejercicios y tareas y coloco el comando de git add (nombre de este archivo), luego git push, se debera poner el nombre de usuario y contraseña, se le da enter y con eso ya tendria que estar guardado en la web.
