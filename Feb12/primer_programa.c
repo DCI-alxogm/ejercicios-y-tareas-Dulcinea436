@@ -24,6 +24,6 @@ int main( ){
       printf("Tu edad es: %i\n", edad);
       peintf("Tu ultimo registro de temperatura fue: %f\n", temperatura);
       exit(0);
-}
+}s
 
 
