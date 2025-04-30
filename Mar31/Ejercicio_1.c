@@ -19,6 +19,13 @@ int main ()
       } while (numero <= 0);
 
       printf("Numero valido ingresado: %d\n", numero);
+
+      printf("¿Deseas ingresar otro numero? (s/n): ");
+      scanf("%c", &opcion); 
+
+    } while (opcion == 's' || opcion == 'S');
+
+      printf("Saliendo del programa.\n");
       
      exit(0);
 }
