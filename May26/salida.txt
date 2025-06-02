@@ -1,0 +1,1 @@
+Celsius a Fahrenheit: 25.00 °C = 77.00 °F
